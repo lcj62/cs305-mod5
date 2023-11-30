@@ -1,3 +1,5 @@
 # this file is a contributing file 
 def main(numbers)
   number = 20
+#hwf7 Harrison Frisbie contributed
+number = 40
